@@ -22,13 +22,10 @@ Website ini bertujuan sebagai tugas yang harus dikumpulkan bagi siswa yang mengi
 - display: inline-block;
 
 ## About Me : 
-Nama  |Syaiful Anwar
-------|
-Tahun Lahir | 13 Februari 1991
-------------|
+Nama        : Syaiful Anwar
+Tahun Lahir : 13 Februari 1991
 
-Saya adalah seorang lulusan diploma di bidang Manajemen Informatika.
-Saya lulus pada tahun 2015, dan setelah itu saya bekerja pada sebuah perusahaan di bidang jasa, tidak begitu lama setelah saya lulus kuliah.
+Saya lulus pada tahun 2015, dan setelah itu saya bekerja pada sebuah perusahaan di bidang jasa.
 Posisi saya pada saat itu sebagai System Administrator, kurang lebih 2 tahun saya bekerja pada bidang tsb.
-Akhirnya saya memutuskan untuk mencoba karir baru yaitu menjadi seorang developer pada tahun 2017, dan bergabung dengan Hacktiv8.
+Pada tahun 2017 saya memutuskan untuk mencoba karir baru yaitu menjadi seorang developer, dan mencoba bergabung dengan Hacktiv8.
 Saat ini saya telah bergabung dengan Hactiv8 dan sedang berada pada Phase: 0.
