@@ -22,8 +22,7 @@ Website ini bertujuan sebagai tugas yang harus dikumpulkan bagi siswa yang mengi
 - display: inline-block;
 
 ## About Me : 
-Nama        : Syaiful Anwar
-Tahun Lahir : 13 Februari 1991
+Nama        : Syaiful Anwar, tahun Lahir : 13 Februari 1991.
 
 Saya lulus pada tahun 2015, dan setelah itu saya bekerja pada sebuah perusahaan di bidang jasa.
 Posisi saya pada saat itu sebagai System Administrator, kurang lebih 2 tahun saya bekerja pada bidang tsb.
