@@ -23,9 +23,9 @@ Website ini bertujuan sebagai tugas yang harus dikumpulkan bagi siswa yang mengi
 
 ## About Me : 
 Nama  |Syaiful Anwar
--------------------------
-Lahir | 13 Februari 1991
--------------------------
+------|
+Tahun Lahir | 13 Februari 1991
+------------|
 
 Saya adalah seorang lulusan diploma di bidang Manajemen Informatika.
 Saya lulus pada tahun 2015, dan setelah itu saya bekerja pada sebuah perusahaan di bidang jasa, tidak begitu lama setelah saya lulus kuliah.
