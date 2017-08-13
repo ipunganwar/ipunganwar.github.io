@@ -1,0 +1,117 @@
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Raleway, Arial, serif;
+  cursor: default;
+}
+
+nav {
+  width: 100%;
+  height: 13%;
+  position: relative;
+  top: 0px;
+  background-color: Black;
+  opacity: 0.7;
+  z-index: -1px;
+  min-width: 100px;
+  overflow: hidden;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+}
+
+
+header {
+  display: block;
+  height: 420px;
+  width: 94%;
+  background-image: url("../img/download.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 3%;
+  border-radius: 5px;
+  box-shadow: 5px 6px 17px 1px rgba(0,0,0,0.62);
+}
+
+
+header p{
+  text-align: center;
+  color: #f9f9f9;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#quotes1 {
+  font-size: 150%;
+  margin-top: 100px;
+  margin-bottom: 8px;
+}
+
+#quotes2 {
+  font-size: 200%;
+  margin-bottom: 10px;
+}
+
+
+.konten {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 11%;
+}
+
+div p {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 26px;
+  font-weight: lighter;
+  color: #919191;
+
+}
+
+h5 {
+  width: 70%;
+  float: left;
+  border: 1px solid red;
+  margin-right: 0px;
+  margin-top: 2%;
+}
+
+
+
+/* Menu */
+ul {
+  list-style:none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: Black;
+  opacity: 0.9;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  padding: 18px 16px;
+  color: white;
+
+}
+
+li a:hover {
+  background-color: Grey;
+  opacity: 0.4;
+}
+
+/* footer */
+footer {
+  margin-bottom: 0px;
+  border-top-style: ridge;
+  border-color: #9b9da0;
+  opacity: 0.6;
+}
