@@ -113,3 +113,8 @@ footer {
   border-color: #9b9da0;
   opacity: 0.6;
 }
+
+body {
+   background-color: White;
+   margin: 0px;
+}
