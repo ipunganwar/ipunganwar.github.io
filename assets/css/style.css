@@ -58,11 +58,11 @@ section p {
 }
 
 body {
-  background-color: White;
-  margin: 0px;
   background-image: url("../img/download.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  position: fixed;
+  width: 100%;
 }
 
 html, body{
