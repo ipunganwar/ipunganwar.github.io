@@ -1,13 +1,9 @@
-
-
 * {
   margin: 0px;
   padding: 0px;
   font-family: Raleway, Arial, serif;
   cursor: default;
 }
-
-
 
 header {
   display: block;
@@ -29,13 +25,14 @@ header {
   top: 0px;
 }
 
-
-
-
 #quotes1 {
   font-size: 150%;
   margin-top: 60px;
   margin-bottom: 0px;
+}
+
+nav ul li {
+  margin-top:1%;
 }
 
 #quotes2 {
