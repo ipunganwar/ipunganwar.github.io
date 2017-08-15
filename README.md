@@ -29,6 +29,3 @@ Posisi saya pada saat itu sebagai System Administrator, kurang lebih 2 tahun say
 Pada tahun 2017 saya memutuskan untuk mencoba karir baru yaitu menjadi seorang developer, dan mencoba bergabung dengan Hacktiv8.
 Saat ini saya telah bergabung dengan Hactiv8 dan sedang berada pada Phase: 0.
 
-## Future Plans.
-Rencananya website ini akan dibuat lebih menarik lagi dari sebelumnya.
-
